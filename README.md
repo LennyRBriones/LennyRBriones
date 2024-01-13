@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Boletomovil<br>🤝 I’m looking for help with Deep learning<br>🌱 I’m currently learning about machine learning<br>💬 Ask me about machine learning, I want to practice! <br>⚡ Learning Deep learning & computer vision
+🔭 I’m currently working on Boletomovil<br>🤝 I’m looking for help with Android development<br>🌱 I’m currently learning about Android development<br>💬 Ask me about python, android and Ios development, I want to practice! <br>⚡ Mobile development
 
 
 ## 🌐 Socials:
