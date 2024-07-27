@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Boletomovil<br>🤝 I’m looking for help with Android development<br>🌱 I’m currently learning about Android development<br>💬 Ask me about python, android and Ios development, I want to practice! <br>⚡ Mobile development
+🔭 I’m currently working on Boletomovil<br>🤝 I’m looking for help with Android development<br>🌱 I’m currently learning about Android development using JetpackCompose<br>💬 Ask me about Android development, I want to practice! <br>⚡ Mobile development
 
 
 ## 🌐 Socials:
