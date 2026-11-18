@@ -16,7 +16,6 @@ I care most about apps that keep working when things go wrong: offline-first dat
 | [orderit-android](https://github.com/LennyRBriones/orderit-android) | Waiter tablet app: orders, menu, live metrics | Kotlin · Compose · Hilt · Retrofit · Firebase |
 | [orderit](https://github.com/LennyRBriones/orderit) | REST backend for OrderIt, deployed on Cloud Run | Kotlin · Ktor · Exposed · Docker |
 | [smash_bros_ultimate_android](https://github.com/LennyRBriones/smash_bros_ultimate_android) | Super Smash Bros. Ultimate character guide | Kotlin · Compose · Firebase |
-| [smash_bros_ultimate_ios](https://github.com/LennyRBriones/smash_bros_ultimate_ios) | The same guide, native on iOS | Swift · SwiftUI |
 | [todo-api](https://github.com/LennyRBriones/todo-api) | Task API with database migrations | Kotlin · Spring Boot · JPA · Flyway |
 | [IMCApp-SwiftUI](https://github.com/LennyRBriones/IMCApp-SwiftUI) | Body mass index calculator | Swift · SwiftUI |
 
